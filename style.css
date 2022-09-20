@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+	background-color: #253B24;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-size: 10px;
+}
+
+body {
+	font-size: 6.6rem;
+	font-family: Georgia, Verdana, Tahoma, sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	margin: 0;
+}
+
+div {
+	display: flex;
+	height: 600px;
+	width: 600px;
+	background-color: #3a243b;
+	border-radius: 10%;
+}
